@@ -1,4 +1,7 @@
 {
+	"name": "tobymaxham/yutta",
+	"license": "MIT",
+	"type": "project",
     "require": {
         "illuminate/database": "^5.3",
         "vlucas/phpdotenv": "^2.4"
